@@ -1,1 +1,1 @@
-# AWS-Terraform-Secret-Manager
+# AWS-Secret-Manager-Terraform
